@@ -39,15 +39,6 @@
     + http://127.0.0.1:52837/home.html   (for Proxy Server)
     + http://127.0.0.1:37000/home.html   (for Web Server)
 
-### SUBMISSION
 
-I have done this assignment completely on my own. I have not copied it, nor have I given my solution to anyone else. I understand that if I am involved in plagiarism or cheating I will have to sign an official form that I have cheated and that this form will be stored in my official university record. I also understand that I will receive a grade of "0" for the involved assignment and my grade will be reduced by one level (e.g., from "A" to "A-" or from "B+" to "B") for my first offense, and that I will receive a grade of "F" for the course for any additional offense of any kind.
 
-By signing my name below and submitting the project, I confirm the above statement is true and that I have followed the course guidelines and policies.
-
-Submission date:24 November 2023
-
-Team member 1 name: VENKATNARAYAN GNANAGURUPARAN
-    
-Team member 2 name (N/A, if not applicable): Sowmya Achu
 
